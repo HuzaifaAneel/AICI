@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+
+# Virtual environment directories
+venv/
+env/
+*.venv
+*.env
+Pipfile.lock
+
+# macOS folder attributes
+.DS_Store
+
+# Logs and crash reports
+*.log
+*.out
+
+# Pytest cache
+.pytest_cache/
+
+# Unit test / coverage reports
+.coverage
+coverage.xml
+htmlcov/
+
+# MyPy cache
+.mypy_cache/
+
+# PyInstaller
+# Usually these files are written by a python script from a template
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Flask secret key
+instance/
+
+# Scrapy logs
+.scrapy/
+
+# Sphinx documentation
+docs/_build/
+
+# Pyre type checker
+.pyre/
+
+# Database
+*.sqlite3
+
+# Translations
+*.mo
+*.pot
+
+# Cython debug symbols
+cython_debug/
+
+# IDEs
+.idea/
+
+# Other
+*.pyo
